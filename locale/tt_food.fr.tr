@@ -1,4 +1,4 @@
-# textdomain: tt_eatable
+# textdomain: tt_food
 
 Food item=alimentaire
 @1 food points=@1 de saturation

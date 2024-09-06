@@ -1,4 +1,4 @@
-# Extended Tooltips: Eatable [`tt_eatable`]
+# Extended Tooltips: Food [`tt_food`]
 
 This is an addition to the [tt](https://codeberg.org/Wuzzy/minetest_tt)
 
