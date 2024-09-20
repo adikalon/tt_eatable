@@ -11,6 +11,7 @@ Displays saturation points for food. Supports food items without problems, with 
 ## Supported mods:
 
 * Farming Redo
+* Mobs Animal
 * Ethereal
 * Dwarf Fortress
 * Animal World

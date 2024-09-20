@@ -52,24 +52,6 @@ add_eatable("aqua_farming:sea_strawberry_item", 3)
 
 
 
--- ebiomes
-
-add_eatable("ebiomes:blackcurrants", 2)
-add_eatable("ebiomes:redcurrants", 2)
-add_eatable("ebiomes:gooseberries", 2)
-add_eatable("ebiomes:cranberries", 2)
-add_eatable("ebiomes:cowberries", 2)
-add_eatable("ebiomes:acorns_cooked", 4)
-add_eatable("ebiomes:olives", 2)
-add_eatable("ebiomes:tamarind_pulp", 3)
-add_eatable("ebiomes:peas_cooked", 5)
-add_eatable("ebiomes:pear", 2)
-add_eatable("ebiomes:quince", 1)
-add_eatable("ebiomes:dried_quince_pieces", 4)
-add_eatable("ebiomes:chestnuts_roasted", 4)
-
-
-
 -- goblins
 
 add_eatable("goblins:mushroom_goblin", 2)
